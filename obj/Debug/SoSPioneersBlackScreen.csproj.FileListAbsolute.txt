@@ -1,0 +1,139 @@
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\SoSPioneersBlackScreen.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\SoSPioneersBlackScreen.pdb
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\0Harmony.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Core.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Mono.Cecil.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Unity.TextMeshPro.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Unity.Timeline.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\DOTweenPro.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.AIModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\NavMeshComponents.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Unity.ResourceManager.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\DOTween.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.AudioModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\MonoMod.Utils.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\SemanticVersioning.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Iced.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Preloader.Core.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\LibCpp2IL.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\MonoMod.RuntimeDetour.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Cpp2IL.Core.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Il2CppSystem.Configuration.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.XRModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\WasmDisassembler.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Gee.External.Capstone.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Core.xml
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Preloader.Core.xml
+D:\Repositories\SoSPioneersBlackScreen\obj\Debug\SoSPioneersBlackScreen.csproj.CoreCompileInputs.cache
+D:\Repositories\SoSPioneersBlackScreen\obj\Debug\SoSPioneersBlackScreen.csproj.CopyComplete
+D:\Repositories\SoSPioneersBlackScreen\obj\Debug\SoSPioneersBlackScreen.dll
+D:\Repositories\SoSPioneersBlackScreen\obj\Debug\SoSPioneersBlackScreen.pdb
+D:\Repositories\SoSPioneersBlackScreen\obj\Debug\SoSPioneersBlackScreen.csproj.AssemblyReference.cache
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Unity.IL2CPP.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Il2CppInterop.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Il2CppInterop.Common.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\AssetRipper.VersionUtilities.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\AsmResolver.DotNet.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Il2CppInterop.Generator.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Unity.Common.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Il2CppInterop.HarmonySupport.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\AsmResolver.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\Disarm.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\AsmResolver.PE.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\StableNameDotNet.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\AsmResolver.PE.File.dll
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Unity.IL2CPP.xml
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Unity.IL2CPP.dll.config
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\BepInEx.Unity.Common.xml
+D:\Repositories\SoSPioneersBlackScreen\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\SoSPioneersBlackScreen.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\SoSPioneersBlackScreen.pdb
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\0Harmony.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Assembly-CSharp.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Core.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Unity.IL2CPP.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Cpp2IL.Core.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppInterop.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2Cppmscorlib.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppSystem.Core.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppSystem.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppSystem.Xml.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Mono.Cecil.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.CoreModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.UI.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.UIModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppInterop.Common.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.AnimationModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Unity.RenderPipelines.Universal.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Unity.TextMeshPro.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Unity.Timeline.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\DOTweenPro.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Unity.RenderPipelines.Core.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.AIModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\NavMeshComponents.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Unity.ResourceManager.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\DOTween.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.AudioModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.DirectorModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\MonoMod.Utils.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\SemanticVersioning.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\AssetRipper.VersionUtilities.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\AsmResolver.DotNet.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppInterop.Generator.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Preloader.Core.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\MonoMod.RuntimeDetour.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\LibCpp2IL.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Unity.Common.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppInterop.HarmonySupport.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\AsmResolver.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Gee.External.Capstone.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Disarm.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Iced.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\AsmResolver.PE.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\StableNameDotNet.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\WasmDisassembler.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\AsmResolver.PE.File.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Il2CppSystem.Configuration.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.InputLegacyModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.XRModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\Unity.Postprocessing.Runtime.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.TextCoreModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Core.xml
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Unity.IL2CPP.xml
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Unity.IL2CPP.dll.config
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Preloader.Core.xml
+D:\Repositories\SoSPioneersBlackScreen - Copy\bin\Debug\BepInEx.Unity.Common.xml
+D:\Repositories\SoSPioneersBlackScreen - Copy\obj\Debug\SoSPioneersBlackScreen.csproj.AssemblyReference.cache
+D:\Repositories\SoSPioneersBlackScreen - Copy\obj\Debug\SoSPioneersBlackScreen.csproj.CoreCompileInputs.cache
+D:\Repositories\SoSPioneersBlackScreen - Copy\obj\Debug\SoSPioneersBlackScreen.csproj.CopyComplete
+D:\Repositories\SoSPioneersBlackScreen - Copy\obj\Debug\SoSPioneersBlackScreen.dll
+D:\Repositories\SoSPioneersBlackScreen - Copy\obj\Debug\SoSPioneersBlackScreen.pdb
